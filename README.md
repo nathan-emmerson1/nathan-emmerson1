@@ -5,5 +5,4 @@
 🌊 We love our beach walks.
 📧 How to reach me: nathanemmerson07@gmail.com
 I graduated from Dev Academy in July 2024.
-check out some projects ive been working on
-⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+

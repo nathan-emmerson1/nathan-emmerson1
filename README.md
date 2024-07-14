@@ -2,7 +2,7 @@
 
 🔨 Full-Stack Developer, passionate about building tech that will help build a better future.
 
-📢 Skilled with TypeScript, React, JS, HTML, CSS, Node.js, Git, SQLite/Knex.
+📢 Skilled with TypeScript, React, JS, HTML, CSS, Node.js, Git, SQLite/Knex.js
 
 🌄 I live in Gisborne, NZ, with my partner and daughter.
 
